@@ -10,3 +10,14 @@ form {
     padding: 0.6rem;
     border-radius: 0 .4rem .4rem .4rem;
 }
+
+textarea {
+    resize: none;
+    width: 100%;
+    outline: none;
+    border: none;
+}
+
+form:focus-within{
+    border: 1px darkorchid solid;
+}
