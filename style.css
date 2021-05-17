@@ -1,6 +1,7 @@
 html {
     font-size: 80%;
 }
+
 body {
     font-family: sans-serif;
 }
@@ -18,6 +19,6 @@ textarea {
     border: none;
 }
 
-form:focus-within{
-    border: 1px darkorchid solid;
+form:focus-within {
+    border: 1px darkslateblue solid;
 }
